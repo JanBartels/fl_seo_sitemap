@@ -1,0 +1,296 @@
+<T3DataStructure>
+   <meta>
+      <langDisable>1</langDisable>
+   </meta>
+   <sheets>
+      <sDEF>
+         <ROOT>
+            <TCEforms>
+               <sheetTitle>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.dsplOptions </sheetTitle>
+            </TCEforms>
+            <type>array</type>
+            <el>
+            
+               <base>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.base</label>
+                     <config>
+                        <type>group</type>
+                        <internal_type>db</internal_type>
+                        <allowed>pages</allowed>
+                        <maxitems>10</maxitems>
+                        <size>3</size>
+                     </config>
+                  </TCEforms>
+               </base>
+               
+               <output_type>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.output_type</label>
+                     <config>
+                        <type>select</type>
+                        <items type="array">
+                           <numIndex index="1" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.output_type.1</numIndex>
+                              <numIndex index="1">singlelist</numIndex>
+                           </numIndex>
+                           <numIndex index="2" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.output_type.2</numIndex>
+                              <numIndex index="1">singlelist_class</numIndex>
+                           </numIndex>
+                           <numIndex index="3" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.output_type.3</numIndex>
+                              <numIndex index="1">multilist</numIndex>
+                           </numIndex>
+                           <numIndex index="4" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.output_type.4</numIndex>
+                              <numIndex index="1">multilist_class</numIndex>
+                           </numIndex>
+                        </items>
+                        <maxitems>1</maxitems>
+                        <size>1</size>
+                     </config>
+                  </TCEforms>
+               </output_type>
+
+               <deep>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.tiefe</label>
+                     <config>
+                        <type>select</type>
+                        <items type="array">
+                           <numIndex index="1" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.tiefe.1</numIndex>
+                              <numIndex index="1">1</numIndex>
+                           </numIndex>
+                           <numIndex index="2" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.tiefe.2</numIndex>
+                              <numIndex index="1">2</numIndex>
+                           </numIndex>
+                           <numIndex index="3" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.tiefe.3</numIndex>
+                              <numIndex index="1">3</numIndex>
+                           </numIndex>
+                           <numIndex index="4" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.tiefe.4</numIndex>
+                              <numIndex index="1">4</numIndex>
+                           </numIndex>
+                           <numIndex index="5" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.tiefe.50</numIndex>
+                              <numIndex index="1">50</numIndex>
+                           </numIndex>
+                        </items>
+                        <maxitems>1</maxitems>
+                        <size>1</size>
+                     </config>
+                  </TCEforms>
+               </deep>
+
+               <link_open_in>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.link_open_in</label>
+                     <config>
+                        <type>select</type>
+                        <items type="array">
+                           <numIndex index="1" type="array">
+                              <numIndex index="0">Top</numIndex>
+                              <numIndex index="1">_top</numIndex>
+                           </numIndex>
+                           <numIndex index="2" type="array">
+                              <numIndex index="0">Blank</numIndex>
+                              <numIndex index="1">_blank</numIndex>
+                           </numIndex>
+                           <numIndex index="3" type="array">
+                              <numIndex index="0">Self</numIndex>
+                              <numIndex index="1">_self</numIndex>
+                           </numIndex>
+                           <numIndex index="4" type="array">
+                              <numIndex index="0">(no target attribute)</numIndex>
+                              <numIndex index="1"></numIndex>
+                           </numIndex>
+                        </items>
+                        <default></default>
+                        <maxitems>1</maxitems>
+                        <size>1</size>
+                     </config>
+                  </TCEforms>
+               </link_open_in>
+               
+               <seperator>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.separator </label>
+                     <config>
+                        <type>input</type>
+                        <size>5</size>
+                     </config>
+                  </TCEforms>
+               </seperator>
+
+               <show_pages>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_page_type</label>
+                     <config>
+                        <type>check</type>
+                        <items type="array">
+                           <numIndex index="1" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_page_type.std</numIndex>
+                              <numIndex index="1">standard</numIndex>
+                           </numIndex>
+                           <numIndex index="2" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_page_type.stdNIM</numIndex>
+                              <numIndex index="1">standard_hidden</numIndex>
+                           </numIndex>
+                           <numIndex index="3" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_page_type.ext</numIndex>
+                              <numIndex index="1">erweitert</numIndex>
+                           </numIndex>
+                           <numIndex index="4" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_page_type.extNIM</numIndex>
+                              <numIndex index="1">erweitert_hidden</numIndex>
+                           </numIndex>
+                           <numIndex index="5" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_page_type.scut</numIndex>
+                              <numIndex index="1">shortcut</numIndex>
+                           </numIndex>
+                           <numIndex index="6" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_page_type.extUrl</numIndex>
+                              <numIndex index="1">Externe_URL</numIndex>
+                           </numIndex>
+                        </items>
+                        <default>21</default>
+                     </config>
+                  </TCEforms>
+               </show_pages>
+
+               <beschreibung_field>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.beschreibung_field</label>
+                     <config>
+                        <type>select</type>
+                        <items type="array">
+                           <numIndex index="1" type="array">
+                              <numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.description</numIndex>
+                              <numIndex index="1">beschreibung</numIndex>
+                           </numIndex>
+                           <numIndex index="2" type="array">
+                              <numIndex index="0">LLL:EXT:cms/locallang_tca.xlf:pages.abstract</numIndex>
+                              <numIndex index="1">inhaltsangabe</numIndex>
+                           </numIndex>
+                           <numIndex index="3" type="array">
+                              <numIndex index="0">LLL:EXT:lang/locallang_general.xlf:LGL.keywords</numIndex>
+                              <numIndex index="1">stichworte</numIndex>
+                           </numIndex>
+                           <numIndex index="4" type="array">
+                              <numIndex index="0">LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.beschreibung_field.4</numIndex>
+                              <numIndex index="1">seo_sitemap</numIndex>
+                           </numIndex>
+                        </items>
+                        <maxitems>4</maxitems>
+                        <size>4</size>
+                     </config>
+                  </TCEforms>
+               </beschreibung_field>
+
+               <headlines_instead>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.use_tt_heads </label>
+                     <config>
+                        <type>check</type>
+                     </config>
+                  </TCEforms>
+               </headlines_instead>
+
+               <show_pagecounter>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.show_pCounter </label>
+                     <config>
+                        <type>check</type>
+                     </config>
+                  </TCEforms>
+               </show_pagecounter>
+
+               <shortcut_follow>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.shortcut_follow</label>
+                     <config>
+                        <type>check</type>
+                     </config>
+                  </TCEforms>
+               </shortcut_follow>
+
+               <link_field>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.linkFrom </label>
+                     <config>
+                        <type>select</type>
+                        <items type="array">
+                           <numIndex index="1" type="array">
+                              <numIndex index="0">LLL:EXT:lang/locallang_tca.xlf:title</numIndex>
+                              <numIndex index="1">seitentitel</numIndex>
+                           </numIndex>
+                           <numIndex index="2" type="array">
+                              <numIndex index="0">LLL:EXT:cms/locallang_tca.xlf:pages.subtitle</numIndex>
+                              <numIndex index="1">untertitel</numIndex>
+                           </numIndex>
+                           <numIndex index="3" type="array">
+                              <numIndex index="0">LLL:EXT:cms/locallang_tca.xlf:pages.nav_title</numIndex>
+                              <numIndex index="1">navigationstitel</numIndex>
+                           </numIndex>
+                        </items>
+                        <maxitems>3</maxitems>
+                        <size>3</size>
+                     </config>
+                  </TCEforms>
+               </link_field>
+               
+               <ignore>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.ignore_sites </label>
+                     <config>
+                        <type>group</type>
+                        <internal_type>db</internal_type>
+                        <allowed>pages</allowed>
+                        <maxitems>50</maxitems>
+                        <size>5</size>
+                     </config>
+                  </TCEforms>
+               </ignore>
+
+               <language>
+                  <TCEforms>
+                     <exclude>0</exclude>
+                     <label>LLL:EXT:fl_seo_sitemap/Resources/Private/Languages/locallang_db.xlf:fl_seo_sitemap.flex.language </label>
+                     <config>
+                        <type>select</type>
+                        <items type="array">
+                           <numIndex index="1" type="array">
+                              <numIndex index="0"></numIndex>
+                              <numIndex index="1"></numIndex>
+                           </numIndex>
+                        </items>
+                        <foreign_table>sys_language</foreign_table>
+                        <foreign_table_where>AND sys_language.hidden=0 ORDER BY sys_language.title</foreign_table_where>
+                        <maxitems>1</maxitems>
+                        <default></default>
+                        <size>1</size>
+                     </config>
+                  </TCEforms>
+               </language>
+               
+             </el>
+         </ROOT>
+       </sDEF>
+   </sheets>
+</T3DataStructure>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-02-01T18:32:03Z" product-name="fl_seo_sitemap">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.list_type_pi1" xml:space="preserve">
+				<source>Extended SEO Sitemap</source>
+			</trans-unit>
+				<trans-unit id="pages.fl_seo_sitemap_field_label" xml:space="preserve">
+				<source>SEO Sitemap</source>
+			</trans-unit>
+				<trans-unit id="pi1_title" xml:space="preserve">
+				<source>Extended SEO Sitemap</source>
+			</trans-unit>
+				<trans-unit id="pi1_plus_wiz_description" xml:space="preserve">
+				<source>Extended SEO Sitemap with special Features 4 Searchengines</source>
+			</trans-unit>
+				<trans-unit id="tx_flseositemap_pagecounter" xml:space="preserve">
+				<source>Page Counter</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.base" xml:space="preserve">
+				<source>Base/Start (not set = current Page):</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.output_type" xml:space="preserve">
+				<source>Output Type:</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.output_type.1" xml:space="preserve">
+				<source>Single List</source>
+			</trans-unit>		
+				<trans-unit id="fl_seo_sitemap.flex.output_type.2" xml:space="preserve">
+				<source>Single List (with CSS classes)</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.output_type.3" xml:space="preserve">
+				<source>Multi List</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.output_type.4" xml:space="preserve">
+				<source>Multi List (with CSS classes)</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.shortcut_follow" xml:space="preserve">
+				<source>Follow Shortcut (Attention for recursive loops)</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.beschreibung_field" xml:space="preserve">
+				<source>Description from:</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.beschreibung_field.4" xml:space="preserve">
+				<source>SEO Sitemap (this Extension)</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.tiefe" xml:space="preserve">
+				<source>Depth:</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.tiefe.1" xml:space="preserve">
+				<source>1. Level</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.tiefe.2" xml:space="preserve">
+				<source>2. Level</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.tiefe.3" xml:space="preserve">
+				<source>3. Level</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.tiefe.4" xml:space="preserve">
+				<source>4. Level</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.tiefe.50" xml:space="preserve">
+				<source>Recursive</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.link_open_in" xml:space="preserve">
+				<source>Link target</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_page_type" xml:space="preserve">
+				<source>Select Pages to Show</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_page_type.std" xml:space="preserve">
+				<source>Standard</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_page_type.stdNIM" xml:space="preserve">
+				<source>Standard (Not In Menu)</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_page_type.ext" xml:space="preserve">
+				<source>Extended</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_page_type.extNIM" xml:space="preserve">
+				<source>Extended (Not In Menu)</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_page_type.scut" xml:space="preserve">
+				<source>Shortcut</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_page_type.extUrl" xml:space="preserve">
+				<source>External URL</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.ignore_sites" xml:space="preserve">
+				<source>Ignore these sites (recursive)</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.use_tt_heads" xml:space="preserve">
+				<source>Use tt_content headlines instead the selection above (colPos = 0):</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.show_pCounter" xml:space="preserve">
+				<source>Show the Page Counter Result:</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.linkFrom" xml:space="preserve">
+				<source>Create link from:</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.language" xml:space="preserve">
+				<source>Language:</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.separator" xml:space="preserve">
+				<source>Separator:</source>
+			</trans-unit>
+				<trans-unit id="fl_seo_sitemap.flex.dsplOptions" xml:space="preserve">
+				<source>Display Options:</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
