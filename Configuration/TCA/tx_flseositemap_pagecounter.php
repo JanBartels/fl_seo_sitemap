@@ -1,3 +1,6 @@
+<?php
+if (!defined ('TYPO3_MODE')) 	die ('Access denied.');
+
 return Array(
 	'ctrl'        => Array(
 		'title'             => 'LLL:EXT:fl_seo_sitemap/Resources/Privates/languages/locallang_db.xml:tx_flseositemap_pagecounter',
@@ -52,3 +55,4 @@ return Array(
 		'1' => Array('showitem' => '')
 	)
 );
+?>
